@@ -106,7 +106,7 @@ body {
   */
   /* ======= Header ======= */
   .header {
-    padding: 30px 0;
+    padding: 10px 0;
     background: #f5f5f5;
     border-top: 10px solid #778492;
   }
@@ -117,7 +117,7 @@ body {
   .header .profile-image {
     margin-right: 30px;
     border-radius: 50%;
-    width:100px;
+    width:110px;
   }
   .header .profile-content .name {
     color: #49515a;
@@ -158,8 +158,8 @@ body {
   }
   /* ======= Sections======= */
   .sections-wrapper {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   .section {
     margin-bottom: 30px;
@@ -206,7 +206,7 @@ body {
     margin-bottom: 60px;
   }
   .latest .featured {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
   }
   .latest .featured .title {
     margin-bottom: 5px;
@@ -375,35 +375,6 @@ body {
     height: 15px;
     background: #66cb8c;
   }
-  /* Testimonials section */
-  .testimonials .item {
-    margin-bottom: 30px;
-  }
-  .testimonials .item:last-child {
-    margin-bottom: 0;
-  }
-  .testimonials .item .quote {
-    color: #666;
-    font-size: 16px;
-    border-left-color: #9fdeb7;
-    margin-bottom: 15px;
-  }
-  .testimonials .item .quote .fa {
-    color: #79d19a;
-    margin-right: 15px;
-  }
-  .testimonials .item .source {
-    font-size: 14px;
-    padding-left: 30px;
-    font-weight: 500;
-  }
-  .testimonials .item .source .name {
-    color: #939ea9;
-    font-weight: 600;
-  }
-  .testimonials .item .source .title {
-    color: #999;
-  }
   /* Education section */
   .education .item {
     margin-bottom: 30px;
@@ -426,39 +397,7 @@ body {
     color: #b0b7bf;
     font-weight: 500;
   }
-  /* Language Section */
-  .languages .item {
-    margin-bottom: 15px;
-  }
-  .languages .item .title {
-    color: #778492;
-  }
-  .languages .item .level {
-    color: #999;
-  }
-  .languages .item:last-child {
-    margin-bottom: 0;
-  }
-  .languages .item .fa {
-    color: #79d19a;
-  }
-  /* Blog Section */
-  .blog .item {
-    margin-bottom: 30px;
-  }
-  .blog .item .title {
-    font-size: 18px;
-    line-height: 1.3;
-  }
-  .blog .item .title a {
-    color: #778492;
-  }
-  .blog .item .title a:hover {
-    color: #5f6b77;
-  }
-  .blog .item:last-child {
-    margin-bottom: 0;
-  }
+
   /* List section */
   .list ul li {
     margin-bottom: 10px;
