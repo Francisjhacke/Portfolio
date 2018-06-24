@@ -1,4 +1,4 @@
-Responsive HTML5 Portfolio Resume
+Portfolio Resume Website to display recent projects and my technical skills. Built in HTML5, CSS3, and Bootstrap 3.
 
 Author: 
 =======================================================================
